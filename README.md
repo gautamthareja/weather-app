@@ -24,17 +24,17 @@
 <h2> Screenshots of the application </h2>
 
 <h3> Loading Screen </h3>
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/loading%20screen.png" width="181" height="320">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/loading%20screen.png" width="226" height="400">
 
 <h3> Current Location Screen </h3>
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/location%20screen.png" width="181" height="320">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/location%20screen.png" width="226" height="400">
 
 <h3> Searching for another city </h3>
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/get-weather%20screen.png" width="181" height="320">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/get-weather%20screen.png" width="226" height="400">
 
 <h3> More Cities </h3>
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/alaska.png" width="181" height="320">
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/dubai.png" width="181" height="320">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/alaska.png" width="226" height="400">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/dubai.png" width="226" height="400">
 
 <h3></h3>
 
