@@ -4,7 +4,7 @@
   
 <h4>
   This is a weather app built using Dart programming language on flutter. <br><br>
-  Some of the features of the application include: <br>
+  Some of the features of the application include: <br><br>
   1. It is a weather app which when opened gets you the weather of the current location of the device. <br><br>
   2. It gives you the real-time weather of over 200,000 cities in the world with high accuracy using OpenWeather API. <br><br>
   3. It can run both on Android and iOS devices using the same code base. <br><br>
