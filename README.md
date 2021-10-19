@@ -13,14 +13,31 @@
   6. As an added feature, along with the temperature, it tells you the condition of the sky using descriptive images, i.e., whether it is rainy, sunny, cloudy, etc. <br><br>
   7. As another added feature, it also gives a brief description about what to do or what to wear according to the weather at a specific location. <br>
 </h4>
-<h3></h3>
-<h2> Flowchart of Methodology </h2>
-<img src = "https://github.com/gautamthareja/weather-app/blob/main/flowchart.png" >
+
 <h3></h3>
 
-<h3>
-  Youtube Video Link: https://www.youtube.com/watch?v=Ud-Fhc9fcxA
-</h3>
-<h3>
-  APK File: https://drive.google.com/drive/folders/1_uf69xJAinz8LtOgj2Mj-SaZauCPq9Ly?usp=sharing
-</h3>
+<h2> Flowchart of Methodology </h2>
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/flowchart.png" >
+
+<h3></h3>
+
+<h2> Screenshots of the application </h2>
+
+<h3> Loading Screen </h3>
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/loading%20screen.png" width="181" height="320">
+
+<h3> Current Location Screen </h3>
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/location%20screen.png" width="181" height="320">
+
+<h3> Searching for another city </h3>
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/get-weather%20screen.png" width="181" height="320">
+
+<h3> More Cities </h3>
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/alaska.png" width="181" height="320">
+<img src = "https://github.com/gautamthareja/weather-app/blob/main/dubai.png" width="181" height="320">
+
+<h3></h3>
+
+<h3> Youtube Video Link: https://www.youtube.com/watch?v=Ud-Fhc9fcxA </h3>
+
+<h3> APK File: https://drive.google.com/drive/folders/1_uf69xJAinz8LtOgj2Mj-SaZauCPq9Ly?usp=sharing </h3>
